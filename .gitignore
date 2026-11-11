@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Except portfolio files
+!.gitignore
+!README.md
+!setup.sh
+!sql/
+!sql/**
+!benchmarks.duckdb
